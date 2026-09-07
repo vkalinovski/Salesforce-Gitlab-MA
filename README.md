@@ -4,7 +4,7 @@
 
 An investment-banking recruiting case linking strategic rationale, valuation, transaction financing, purchase accounting, cost synergies and pro forma EPS. Information as of **4 September 2026**; assumed closing **1 February 2027**. Independent hypothetical analysis, with provisional analyst assumptions for owner review.
 
-[Download Excel model](models/Salesforce_GitLab_Merger_Model.xlsx) · [Read pitchbook PDF](presentation/Salesforce_GitLab_MA_Pitchbook.pdf) · [Editable PPTX](presentation/Salesforce_GitLab_MA_Pitchbook.pptx)
+[Download Excel model](model/Salesforce_GitLab_Merger_Model.xlsx) · [Read pitchbook PDF](pitch/Pitch_FINAL.pdf) · [Editable PPTX](pitch/Pitch_FINAL.pptx)
 
 ## Executive summary
 
@@ -29,19 +29,15 @@ The proposed purchase combines a plausible workflow adjacency with an unattracti
 
 ## Accretion / dilution
 
-![EPS dilution by year](assets/accretion_dilution.png)
-
 Recurring EPS includes new PPA and SBC. All-in EPS also includes transaction fees and integration costs. The workbook shows a separate supplemental view excluding new PPA while retaining SBC; this is not company-reported non-GAAP EPS.
 
 ## Valuation
-
-![Valuation football field](assets/valuation_football_field.png)
 
 Gordon DCF: **$20.31** per share. Exit DCF: **$33.24** at 20× GAAP EBIT. Trading comps imply **$53.26–$108.63**, using limited peers and explicit share / forward-revenue proxies. The disagreement is not resolved by averaging methods. The HashiCorp observation is a single marker, not a precedent range; a dated 52-week range is unavailable.
 
 ## Strategic rationale
 
-GitLab could extend Salesforce's enterprise workflow ecosystem into software delivery and DevSecOps. Slack integrations, co-selling and customer pilots can test those benefits before paying a control premium. The base case assigns **zero revenue synergy** and excludes R&D cuts. [Strategic rationale](analysis/strategic_rationale.md) · [Risks](analysis/risks.md)
+GitLab could extend Salesforce's enterprise workflow ecosystem into software delivery and DevSecOps. Slack integrations, co-selling and customer pilots can test those benefits before paying a control premium. The base case assigns **zero revenue synergy** and excludes R&D cuts. [Strategic rationale](analysis/strategic_rationale.md) · [Risks]
 
 ## Explore the model
 
@@ -52,25 +48,6 @@ The Excel workbook has 20 visible tabs: source facts, both standalone forecasts,
 - Test premiums, synergy multiplier, debt rate and funding mix. Six funding structures, 25 premium / savings cases and 25 WACC / growth cases recalculate the transaction mechanics.
 - `18_Checks` has **14 arithmetic controls, all passing**. Dynamic tests and an independent audit are in `analysis/`.
 
-## Read before presenting
 
-Key assumptions are provisional, as requested in the brief. Review [the decision sheet](analysis/assumptions_for_review.md) before adopting the recommendation. The model is a recruiting case, not a claim of completed transaction diligence.
-
-Material limitations: full original 10-K / 10-Q documents are **not archived**; factual extracts and a dated source register are supplied. Peer shares / forward revenues, deal awards, WACC, tax realization, PPA and closing balances use disclosed proxies or assumptions. Only one precedent has a verified EV / revenue calculation. PDF pages preserve slide appearance as images with searchable headings; PPTX content remains editable.
-
-[Methodology](analysis/methodology.md) · [Source register](sources/sources.md) · [Valuation detail](analysis/valuation_summary.md) · [Interview guide](analysis/interview_guide.md) · [Rebuild instructions](scripts/README.md)
-
-## Repository layout
-
-| Folder | Contents |
-|---|---|
-| `models/` | Dynamic Excel merger model |
-| `presentation/` | 17-slide editable PPTX and matching PDF |
-| `data/raw/` | Source inventory and preserved factual extraction; archive limitations |
-| `data/processed/` | Historical CSVs, assumptions, formula inventory and calculated snapshot |
-| `analysis/` | Methodology, strategy, risks, valuation, review sheet and validation |
-| `sources/` | Linked source register |
-| `assets/` | README charts generated from the model |
-| `scripts/` | Rebuild / refresh scripts and environment requirements |
 
 
