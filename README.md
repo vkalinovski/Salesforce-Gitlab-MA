@@ -4,8 +4,6 @@
 
 An investment-banking recruiting case linking strategic rationale, valuation, transaction financing, purchase accounting, cost synergies and pro forma EPS. Information as of **4 September 2026**; assumed closing **1 February 2027**. Independent hypothetical analysis, with provisional analyst assumptions for owner review.
 
-[Download Excel model](model/Salesforce_GitLab_Merger_Model.xlsx) · [Read pitchbook PDF](pitch/Pitch_FINAL.pdf) · [Editable PPTX](pitch/Pitch_FINAL.pptx)
-
 ## Executive summary
 
 The proposed purchase combines a plausible workflow adjacency with an unattractive base financial case. At a 25% premium, recurring EPS dilution is **-9.7% in Year 1** and **-5.9% in Year 3**, including SBC and incremental purchase amortization. Run-rate savings of **$99.6m** are insufficient: Year 3 EPS neutrality requires **$878.5m**. The SBC-explicit Gordon DCF and net synergies imply an economic break-even price of **$24.03**, below both market and offer.
@@ -37,7 +35,7 @@ Gordon DCF: **$20.31** per share. Exit DCF: **$33.24** at 20× GAAP EBIT. Tradin
 
 ## Strategic rationale
 
-GitLab could extend Salesforce's enterprise workflow ecosystem into software delivery and DevSecOps. Slack integrations, co-selling and customer pilots can test those benefits before paying a control premium. The base case assigns **zero revenue synergy** and excludes R&D cuts. [Strategic rationale](analysis/strategic_rationale.md) · [Risks]
+GitLab could extend Salesforce's enterprise workflow ecosystem into software delivery and DevSecOps. Slack integrations, co-selling and customer pilots can test those benefits before paying a control premium. The base case assigns **zero revenue synergy** and excludes R&D cuts
 
 ## Explore the model
 
