@@ -2,8 +2,6 @@
 
 **Recommendation: do not acquire at the modeled $62.29 offer; pursue a commercial partnership.**
 
-An investment-banking recruiting case linking strategic rationale, valuation, transaction financing, purchase accounting, cost synergies and pro forma EPS. Information as of **4 September 2026**; assumed closing **1 February 2027**. Independent hypothetical analysis, with provisional analyst assumptions for owner review.
-
 ## Executive summary
 
 The proposed purchase combines a plausible workflow adjacency with an unattractive base financial case. At a 25% premium, recurring EPS dilution is **-9.7% in Year 1** and **-5.9% in Year 3**, including SBC and incremental purchase amortization. Run-rate savings of **$99.6m** are insufficient: Year 3 EPS neutrality requires **$878.5m**. The SBC-explicit Gordon DCF and net synergies imply an economic break-even price of **$24.03**, below both market and offer.
